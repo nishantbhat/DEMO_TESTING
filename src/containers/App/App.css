@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 80px;
+  padding: 10px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+body{
+    overflow: hidden
+}
+
+.box {
+    background: #50616B; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#50616B, #40525E, #40525E); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#50616B, #40525E, #40525E); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#50616B, #40525E, #40525E); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#50616B, #40525E, #40525E); /* Standard syntax */
+    /*background-color: #40525E;*/
+    border-radius: 10px;
+    color:#D2DDE1;
+    padding: 2%;
+}
+
+.boxtext {
+    color: #7A8893;
+}
+
+.b {
+    color: #45C273
+}
+
+.heder {
+    color: #3D5361;
+}
+
+h2 {
+    color: #D2DDE1;
+}
+
+sectionst{
+    background-color:#D2DDE3; height: 100%;width: 100%;position:fixed;margin:0!important;
+}

@@ -1,0 +1,35 @@
+.sidebarback{
+    background: #40525E;
+  
+  text-align: right;
+    padding-bottom: 5000px;
+
+}
+.side1{
+    text-align: left;
+    float: left
+}
+.my_ul{
+    list-style: none;
+    color: white;
+    padding-left: 0
+}
+.my_li:active{
+background: #27A768
+}
+.my_li{
+    padding: 15px
+}
+.blur{
+    background: #27A768
+}
+.selected{
+    background: #27A768
+}
+.sideLink{
+    color: white;
+    text-decoration: none;
+}
+Link:hover {
+    color: white;
+}
