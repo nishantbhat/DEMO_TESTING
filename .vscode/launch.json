@@ -5,28 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Debug",
-            "type": "chrome",
-            "request": "launch",
-            "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/electron",
-            "windows": {
-                "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/electron.cmd"
-            },
-            "port": 9222,
-            "runtimeArgs": [
-                "${workspaceRoot}",
-                "--enable-logging",
-                "--remote-debugging-port=9222"
-            ],
-            "sourceMaps": true,
-            "webRoot": "${workspaceRoot}"
-        },
-        {
             "type": "node",
-            "request": "attach",
-            "name": "Attach to Main",
-            "port": 9876,
-            "protocol": "legacy"
+            "request": "launch",
+            "name": "Launch Program",
+            "program": "${workspaceFolder}\\public\\electron.js",
+            "outFiles": [
+                "${workspaceFolder}/**/*.js"
+            ]
         }
     ]
 }

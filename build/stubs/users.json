@@ -1,0 +1,51 @@
+[
+    {
+        "FirstName": "Ajay",
+        "LastName": "Malhotra",
+        "DateAdded": "05/04/2017 11:55 PM",
+        "User ID":"0001",
+        "LastActive": "05/04/2017 11:55 PM",
+        "status": "Active"
+    },
+    {
+        "FirstName": "Ibrahim",
+        "LastName": "wasim",
+        "DateAdded": "05/04/2017 11:55 PM",
+        "User ID":"0002",
+        "LastActive": "05/04/2017 11:55 PM",
+        "status": "Active"
+    },
+    {
+        "FirstName": "Mrinal",
+        "LastName": "Malhotra",
+        "DateAdded": "05/04/2017 11:55 PM",
+        "User ID":"0003",
+        "LastActive": "05/04/2017 11:55 PM",
+        "status": "Active"
+    },
+    {
+        "FirstName": "Vivek",
+        "LastName": "Agnihotri",
+        "DateAdded": "05/04/2017 11:55 PM",
+        "User ID":"0004",
+        "LastActive": "05/04/2017 11:55 PM",
+        "status": "Active"
+    },
+    {
+        "FirstName": "Raj",
+        "LastName": "Shukla",
+        "DateAdded": "05/04/2017 11:55 PM",
+        "User ID":"0005",
+        "LastActive": "05/04/2017 11:55 PM",
+        "status": "Active"
+    },
+    {
+        "FirstName": "Ajay",
+        "LastName": "Malhotra",
+        "DateAdded": "05/04/2017 11:55 PM",
+        "User ID":"0006",
+        "LastActive": "05/04/2017 11:55 PM",
+        "status": "Inactive"
+    }
+    
+]

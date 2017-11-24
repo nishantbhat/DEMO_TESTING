@@ -1,4 +1,4 @@
-# Universal Criminal Workstation
+
 
 requires:
   * nodejs 6
